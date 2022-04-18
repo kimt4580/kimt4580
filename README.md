@@ -24,8 +24,6 @@
 <p>
 <br>
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=kimt4580&show_icons=true&theme=dracula&hide="/>
-    
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimt4580&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
 <!--
 **cherrishRed/cherrishRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
