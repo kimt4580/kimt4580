@@ -24,6 +24,9 @@
 <p>
 <br>
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=kimt4580&show_icons=true&theme=dracula&hide="/>
+    
+<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
 <!--
 **cherrishRed/cherrishRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
