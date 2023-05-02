@@ -5,9 +5,6 @@
     
 ![](https://i.imgur.com/3f51WN7.gif)
 
-🐻 Yagom Academy iOS Career Stater Camp 5rd
-</div>
-
 <h3 align="center"> 📨 SNS 📨
 <p>
 
