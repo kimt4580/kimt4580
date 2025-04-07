@@ -1,5 +1,5 @@
-<h2 align="center"> Hi👋🏻</h2>
-<h3 align="center">안녕하세요 iOS 개발자 김태훈입니다.😄</h3>
+<h2 align="center"> 안녕하세요👋🏻</h2>
+<h3 align="center"> iOS 개발자 김태훈입니다.😄</h3>
 
 <div align="center">
     
